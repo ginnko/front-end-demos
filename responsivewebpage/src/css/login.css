@@ -1,0 +1,63 @@
+/* ========
+   登录框样式
+   ========*/
+.main{
+    background-color: #e8e8e8;
+}
+fieldset{
+    width: 30%;
+    margin: 6rem auto;
+    text-align: left;
+    border: 1px solid #b1b1b1;
+}
+.login{
+    display: block;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#submit{
+    margin-top: 1rem;
+    font-size: 1.4rem;
+    border-radius: 1rem;
+    background-color: #e8e8e8;
+    border: 1px solid #dadada;
+    box-shadow: 1px 2px 1px #b1b1b1;
+    height: 2rem;
+}
+p{
+    text-align: center;
+}
+.signup{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+div.signup label{
+    float: left;
+}
+div.signup input{
+    float: right;
+    background-color: #e8e8e8;
+    border: 1px solid #dadada;
+    box-shadow: 1px 2px 1px #b1b1b1;
+    font-size: 1.4rem;
+    border-radius: 0.2rem;
+}
+div.text-type{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+div.text-type label{
+    font-weight: bold;
+    font-size: 1.4rem;
+}
+div.text-type input{
+    border-radius: 0.5rem;
+    height: 2rem;
+}
+@media only screen and (max-width: 50em) {
+    fieldset{
+        width: 90%;
+    }
+}
