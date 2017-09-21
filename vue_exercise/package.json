@@ -1,0 +1,13 @@
+{
+  "name": "vue_exercise",
+  "version": "1.0.0",
+  "description": "点击开始后，每一轮都可以普通攻击、特殊攻击、恢复、放弃等操作，直到任意一方HP为零终止游戏。",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
