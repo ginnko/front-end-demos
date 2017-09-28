@@ -60,3 +60,6 @@ fabric.properties
 
 #modules
 node_modules/
+
+#package
+package-lock.json
