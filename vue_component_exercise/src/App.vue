@@ -5,7 +5,7 @@
         <app-quote-grid :quotes="quotes" @quoteDelete="deleteQuote($event)"></app-quote-grid>
         <div class="row">
             <div class="col-sm-12 text-center">
-                <div class="alert alert-info">Info: Click on a Quote to delete it!</div>
+                <div class="alert alert-info">Info: Click on a Quote to delete it</div>
             </div>
         </div>
     </div>
