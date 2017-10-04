@@ -1,5 +1,5 @@
 ### Animation练习
-计算随机生成的加减法题，使用Bootstrap布局。预览点击[此处]()。  
+计算随机生成的加减法题，使用Bootstrap布局。预览点击[此处](https://htmlpreview.github.io/?https://github.com/ginnko/front-end-demos/blob/master/vue-animation_exercise/index.html)。  
 
 主要功能由以下组件完成：
 - App.vue: Answer和Question两个组件的父组件，由<component>动态选择加载哪个组件；
